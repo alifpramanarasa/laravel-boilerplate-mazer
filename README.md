@@ -13,7 +13,7 @@ Laravel Starter merupakan admin panel sederhana dengan menggunakan laravel dan j
 ## *Installing*
 - *Clone* repo:
 ```
-git clone https://github.com/rmalan/laravel-starter.git
+git clone https://github.com/alifpramanarasa/laravel-boilerplate-mazer
 ```
 - Jalankan:
 ```
