@@ -1,5 +1,5 @@
 # Laravel Starter
-Laravel Starter merupakan admin panel sederhana dengan menggunakan laravel dan juga terintegrasi dengan template [Stisla](https://getstisla.com/).
+Laravel Starter merupakan admin panel sederhana dengan menggunakan laravel dan juga terintegrasi dengan template [Mazer](https://zuramai.github.io/mazer/).
 
 ## Fitur
 - *Auth* (*register, verify, reset password, confirm password*)
